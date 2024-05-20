@@ -34,6 +34,7 @@ AyurvedaAI is an AI-powered application that leverages large language models to 
 
 ## Contact
 
-For inquiries or support, please contact swanandkulkarni71@gmail.com
+For inquiries or support, please contact ajinkyabhandare18@gmail.com
+
 
 
