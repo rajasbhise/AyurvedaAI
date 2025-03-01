@@ -32,9 +32,7 @@ AyurvedaAI is an AI-powered application that leverages large language models to 
 3. Explore additional educational resources and articles on Ayurveda.
 4. Interact with the AI-powered chatbot for further assistance and queries
 
-## Contact
 
-For inquiries or support, please contact ajinkyabhandare18@gmail.com
 
 
 
